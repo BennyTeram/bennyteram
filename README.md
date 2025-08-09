@@ -1,4 +1,4 @@
-<img src="https://github.com/Beteme/beteme/blob/main/Banner Benny TeraM.png">
+<img src="https://github.com/BennyTeraM/bennyteram/blob/0f5774316aad347896eb8d5d529f3d1462133d65/Banner%20Benny%20TeraM.png">
 
 ### 👋 ¡Hola!
 
@@ -39,10 +39,10 @@ Soy **Benny Terán Mena**, desarrollador web y analista de datos enfocado en cre
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beteme&show_icons=true&theme=tokyonight&hide_title=false&hide=issues&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beteme&layout=compact&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bennyteram&show_icons=true&theme=tokyonight&hide_title=false&hide=issues&count_private=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?bennyteram=bennyteram&layout=compact&theme=tokyonight" width="49%"/>
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=beteme&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=bennyteram&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
